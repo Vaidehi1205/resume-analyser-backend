@@ -8,3 +8,4 @@ matplotlib
 reportlab
 pandas
 numpy
+spacy
